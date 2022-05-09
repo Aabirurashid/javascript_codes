@@ -1,0 +1,22 @@
+{
+  "Karan@123": [
+    {
+      "name": "Aabiru",
+      "password": "Karan@123",
+      "describtion": "rtyui",
+      "DOB": "rtyu",
+      "Hobbies": "ertyui",
+      "Gender": "f"
+    }
+  ],
+  "Aabiru@123": [
+    {
+      "name": "karan",
+      "password": "Aabiru@123",
+      "describtion": "erty",
+      "DOB": "eitk",
+      "Hobbies": "tyui",
+      "Gender": "f"
+    }
+  ]
+}
